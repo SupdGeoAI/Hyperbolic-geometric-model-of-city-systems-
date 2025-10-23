@@ -1,0 +1,919 @@
+GEOID,State,Name
+49820,TX,Zapata
+49780,OH,Zanesville
+49740,AZ,Yuma
+49700,CA,Yuba City
+49660,OH,Youngstown-Warren-Boardman
+49620,PA,York-Hanover
+49460,SD,Yankton
+49420,WA,Yakima
+49380,MN,Worthington
+49340,MA,Worcester
+49300,OH,Wooster
+49260,OK,Woodward
+49220,WI,Wisconsin Rapids-Marshfield
+49180,NC,Winston-Salem
+49100,MN,Winona
+49080,NV,Winnemucca
+49060,KS,Winfield
+49020,VA,Winchester
+48980,NC,Wilson
+48940,OH,Wilmington
+48900,NC,Wilmington
+48820,MN,Willmar
+48780,ND,Williston
+48700,PA,Williamsport
+48660,TX,Wichita Falls
+48620,KS,Wichita
+48580,WI,Whitewater
+48540,WV,Wheeling
+48500,MS,West Point
+48460,MO,West Plains
+48300,WA,Wenatchee
+48260,WV,Weirton-Steubenville
+48220,OK,Weatherford
+48180,GA,Waycross
+48140,WI,Wausau-Weston
+48100,FL,Wauchula
+48060,NY,Watertown-Fort Drum
+48020,WI,Watertown-Fort Atkinson
+47980,SD,Watertown
+47940,IA,Waterloo-Cedar Falls
+47920,OH,Washington Court House
+47900,DC,Washington-Arlington-Alexandria
+47820,NC,Washington
+47780,IN,Washington
+47700,IN,Warsaw
+47660,MO,Warrensburg
+47620,PA,Warren
+47580,GA,Warner Robins
+47540,OH,Wapakoneta
+47460,WA,Walla Walla
+47420,ND,Wahpeton
+47380,TX,Waco
+47340,IN,Wabash
+47300,CA,Visalia
+47260,VA,Virginia Beach-Norfolk-Newport News
+47240,MA,Vineyard Haven
+47220,NJ,Vineland-Bridgeton
+47180,IN,Vincennes
+47080,GA,Vidalia
+47020,TX,Victoria
+46980,MS,Vicksburg
+46900,TX,Vernon
+46860,UT,Vernal
+46820,SD,Vermillion
+46780,OH,Van Wert
+46700,CA,Vallejo
+46660,GA,Valdosta
+46620,TX,Uvalde
+46540,NY,Utica-Rome
+46500,OH,Urbana
+46460,TN,Union City
+46420,SC,Union
+46380,CA,Ukiah
+46340,TX,Tyler
+46300,ID,Twin Falls
+46220,AL,Tuscaloosa
+46180,MS,Tupelo
+46140,OK,Tulsa
+46100,TN,Tullahoma-Manchester
+46060,AZ,Tucson
+46020,CA,Truckee-Grass Valley
+45980,AL,Troy
+45940,NJ,Trenton-Princeton
+45900,MI,Traverse City
+45860,CT,Torrington
+45820,KS,Topeka
+45780,OH,Toledo
+45740,GA,Toccoa
+45700,GA,Tifton
+45660,OH,Tiffin
+45620,GA,Thomasville
+45580,GA,Thomaston
+45540,FL,The Villages
+45520,OR,The Dalles
+45500,TX,Texarkana
+45460,IN,Terre Haute
+45380,IL,Taylorville
+45340,NM,Taos
+45300,FL,Tampa-St. Petersburg-Clearwater
+45220,FL,Tallahassee
+45180,AL,Talladega-Sylacauga
+45140,OK,Tahlequah
+45060,NY,Syracuse
+45020,TX,Sweetwater
+45000,CA,Susanville
+44980,PA,Sunbury
+44940,SC,Sumter
+44900,GA,Summerville
+44860,TX,Sulphur Springs
+44780,MI,Sturgis
+44740,IA,Storm Lake
+44700,CA,Stockton
+44660,OK,Stillwater
+44620,WI,Stevens Point
+44580,IL,Sterling
+44540,CO,Sterling
+44500,TX,Stephenville
+44460,CO,Steamboat Springs
+44420,VA,Staunton
+44340,GA,Statesboro
+44300,PA,State College
+44260,MS,Starkville
+44220,OH,Springfield
+44180,MO,Springfield
+44140,MA,Springfield
+44100,IL,Springfield
+44060,WA,Spokane-Spokane Valley
+44020,IA,Spirit Lake
+43980,IA,Spencer
+43940,SD,Spearfish
+43900,SC,Spartanburg
+43780,IN,South Bend-Mishawaka
+43760,CA,Sonora
+43740,PA,Somerset
+43700,KY,Somerset
+43660,TX,Snyder
+43620,SD,Sioux Falls
+43580,IA,Sioux City
+43500,NM,Silver City
+43460,MO,Sikeston
+43420,AZ,Sierra Vista-Douglas
+43380,OH,Sidney
+43340,LA,Shreveport-Bossier City
+43320,AZ,Show Low
+43300,TX,Sherman-Denison
+43260,WY,Sheridan
+43220,WA,Shelton
+43180,TN,Shelbyville
+43140,NC,Shelby
+43100,WI,Sheboygan
+43060,OK,Shawnee
+43020,WI,Shawano
+42980,IN,Seymour
+42940,TN,Sevierville
+42900,NY,Seneca Falls
+42860,SC,Seneca
+42820,AL,Selma
+42780,PA,Selinsgrove
+42740,MO,Sedalia
+42700,FL,Sebring-Avon Park
+42680,FL,Sebastian-Vero Beach
+42660,WA,Seattle-Tacoma-Bellevue
+42620,AR,Searcy
+42540,PA,Scranton--Wilkes-Barre
+42500,IN,Scottsburg
+42460,AL,Scottsboro
+42420,NE,Scottsbluff
+42380,PA,Sayre
+42340,GA,Savannah
+42300,MI,Sault Ste. Marie
+42220,CA,Santa Rosa-Petaluma
+42200,CA,Santa Maria-Santa Barbara
+42140,NM,Santa Fe
+42100,CA,Santa Cruz-Watsonville
+42020,CA,San Luis Obispo-Paso Robles
+41940,CA,San Jose-Sunnyvale-Santa Clara
+41860,CA,San Francisco-Oakland-Berkeley
+41820,NC,Sanford
+41780,OH,Sandusky
+41760,ID,Sandpoint
+41740,CA,San Diego-Chula Vista-Carlsbad
+41700,TX,San Antonio-New Braunfels
+41660,TX,San Angelo
+41620,UT,Salt Lake City
+41540,MD,Salisbury
+41500,CA,Salinas
+41460,KS,Salina
+41420,OR,Salem
+41400,OH,Salem
+41260,PA,St. Marys
+41220,GA,St. Marys
+41180,MO,St. Louis
+41140,MO,St. Joseph
+41100,UT,St. George
+41060,MN,St. Cloud
+40980,MI,Saginaw
+40940,AZ,Safford
+40900,CA,Sacramento-Roseville-Folsom
+40860,VT,Rutland
+40820,LA,Ruston
+40780,AR,Russellville
+40760,NM,Ruidoso
+40740,NM,Roswell
+40700,OR,Roseburg
+40660,GA,Rome
+40620,MO,Rolla
+40580,NC,Rocky Mount
+40540,WY,Rock Springs
+40530,TX,Rockport
+40460,NC,Rockingham
+40420,IL,Rockford
+40380,NY,Rochester
+40340,MN,Rochester
+40300,IL,Rochelle
+40260,NC,Roanoke Rapids
+40220,VA,Roanoke
+40180,WY,Riverton
+40140,CA,Riverside-San Bernardino-Ontario
+40100,TX,Rio Grande City-Roma
+40080,KY,Richmond-Berea
+40060,VA,Richmond
+39980,IN,Richmond
+39940,ID,Rexburg
+39900,NV,Reno
+39860,MN,Red Wing
+39820,CA,Redding
+39780,CA,Red Bluff
+39740,PA,Reading
+39700,TX,Raymondville
+39660,SD,Rapid City
+39580,NC,Raleigh-Cary
+39540,WI,Racine
+39500,IL,Quincy
+39460,FL,Punta Gorda
+39420,WA,Pullman
+39380,CO,Pueblo
+39340,UT,Provo-Orem
+39300,RI,Providence-Warwick
+39260,OR,Prineville
+39220,UT,Price
+39150,AZ,Prescott Valley-Prescott
+39100,NY,Poughkeepsie-Newburgh-Middletown
+39060,PA,Pottsville
+39020,OH,Portsmouth
+38940,FL,Port St. Lucie
+38920,TX,Port Lavaca
+38900,OR,Portland-Vancouver-Hillsboro
+38860,ME,Portland-South Portland
+38820,WA,Port Angeles
+38780,NM,Portales
+38740,MO,Poplar Bluff
+38700,IL,Pontiac
+38620,OK,Ponca City
+38580,WV,Point Pleasant
+38540,ID,Pocatello
+38500,IN,Plymouth
+38460,NY,Plattsburgh
+38420,WI,Platteville
+38380,TX,Plainview
+38340,MA,Pittsfield
+38300,PA,Pittsburgh
+38260,KS,Pittsburg
+38240,NC,Pinehurst-Southern Pines
+38220,AR,Pine Bluff
+38180,SD,Pierre
+38100,MS,Picayune
+38060,AZ,Phoenix-Mesa-Chandler
+37980,PA,Philadelphia-Camden-Wilmington
+37940,IN,Peru
+37900,IL,Peoria
+37860,FL,Pensacola-Ferry Pass-Brent
+37800,IA,Pella
+37780,TX,Pecos
+37770,TX,Pearsall
+37740,AZ,Payson
+37660,KS,Parsons
+37620,WV,Parkersburg-Vienna
+37580,TX,Paris
+37540,TN,Paris
+37500,AR,Paragould
+37460,FL,Panama City
+37420,TX,Pampa
+37340,FL,Palm Bay-Melbourne-Titusville
+37300,TX,Palestine
+37260,FL,Palatka
+37220,NV,Pahrump
+37140,KY,Paducah
+37120,AL,Ozark
+37100,CA,Oxnard-Thousand Oaks-Ventura
+37060,MS,Oxford
+36980,KY,Owensboro
+36940,MN,Owatonna
+36900,IA,Ottumwa
+36840,KS,Ottawa
+36837,IL,Ottawa
+36830,WA,Othello
+36820,IA,Oskaloosa
+36780,WI,Oshkosh-Neenah
+36740,FL,Orlando-Kissimmee-Sanford
+36700,SC,Orangeburg
+36660,LA,Opelousas
+36620,OR,Ontario
+36580,NY,Oneonta
+36540,NE,Omaha-Council Bluffs
+36500,WA,Olympia-Lacey-Tumwater
+36460,NY,Olean
+36420,OK,Oklahoma City
+36380,FL,Okeechobee
+36340,PA,Oil City
+36300,NY,Ogdensburg-Massena
+36260,UT,Ogden-Clearfield
+36220,TX,Odessa
+36140,NJ,Ocean City
+36100,FL,Ocala
+36020,WA,Oak Harbor
+35980,CT,Norwich-New London
+35940,OH,Norwalk
+35900,NC,North Wilkesboro
+35860,IN,North Vernon
+35840,FL,North Port-Sarasota-Bradenton
+35820,NE,North Platte
+35740,NE,Norfolk
+35700,AZ,Nogales
+35660,MI,Niles
+35620,NY,New York-Newark-Jersey City
+35580,MN,New Ulm
+35460,TN,Newport
+35440,OR,Newport
+35420,OH,New Philadelphia-Dover
+35380,LA,New Orleans-Metairie
+35300,CT,New Haven-Milford
+35260,PA,New Castle
+35220,IN,New Castle
+35140,SC,Newberry
+35100,NC,New Bern
+35060,LA,Natchitoches
+35020,MS,Natchez
+34980,TN,Nashville-Davidson--Murfreesboro--Franklin
+34940,FL,Naples-Marco Island
+34900,CA,Napa
+34860,TX,Nacogdoches
+34820,SC,Myrtle Beach-Conway-North Myrtle Beach
+34780,OK,Muskogee
+34740,MI,Muskegon
+34700,IA,Muscatine
+34660,KY,Murray
+34620,IN,Muncie
+34580,WA,Mount Vernon-Anacortes
+34540,OH,Mount Vernon
+34500,IL,Mount Vernon
+34460,KY,Mount Sterling
+34420,TX,Mount Pleasant
+34380,MI,Mount Pleasant
+34350,WV,Mount Gay-Shamrock
+34340,NC,Mount Airy
+34300,ID,Mountain Home
+34260,AR,Mountain Home
+34220,GA,Moultrie
+34180,WA,Moses Lake
+34140,ID,Moscow
+34100,TN,Morristown
+34060,WV,Morgantown
+34020,LA,Morgan City
+33980,NC,Morehead City
+33940,CO,Montrose
+33860,AL,Montgomery
+33780,MI,Monroe
+33740,LA,Monroe
+33700,CA,Modesto
+33660,AL,Mobile
+33620,MO,Moberly
+33580,SD,Mitchell
+33540,MT,Missoula
+33500,ND,Minot
+33460,MN,Minneapolis-St. Paul-Bloomington
+33420,TX,Mineral Wells
+33380,LA,Minden
+33340,WI,Milwaukee-Waukesha
+33300,GA,Milledgeville
+33260,TX,Midland
+33220,MI,Midland
+33180,KY,Middlesborough
+33140,IN,Michigan City-La Porte
+33100,FL,Miami-Fort Lauderdale-Pompano Beach
+33060,OK,Miami
+33020,MO,Mexico
+32940,MS,Meridian
+32900,CA,Merced
+32860,WI,Menomonie
+32820,TN,Memphis
+32780,OR,Medford
+32740,PA,Meadville
+32700,KS,McPherson
+32660,TN,McMinnville
+32620,MS,McComb
+32580,TX,McAllen-Edinburg-Mission
+32540,OK,McAlester
+32500,KY,Maysville
+32460,KY,Mayfield
+32380,IA,Mason City
+32340,MO,Maryville
+32300,VA,Martinsville
+32280,TN,Martin
+32260,IA,Marshalltown
+32180,MO,Marshall
+32140,MN,Marshall
+32100,MI,Marquette
+32020,OH,Marion
+32000,NC,Marion
+31980,IN,Marion
+31940,WI,Marinette
+31930,OH,Marietta
+31900,OH,Mansfield
+31860,MN,Mankato
+31820,WI,Manitowoc
+31740,KS,Manhattan
+31700,NH,Manchester-Nashua
+31680,AR,Malvern
+31660,NY,Malone
+31620,AR,Magnolia
+31580,KY,Madisonville
+31540,WI,Madison
+31500,IN,Madison
+31460,CA,Madera
+31420,GA,Macon-Bibb County
+31380,IL,Macomb
+31340,VA,Lynchburg
+31300,NC,Lumberton
+31260,TX,Lufkin
+31220,MI,Ludington
+31180,TX,Lubbock
+31140,KY,Louisville/Jefferson County
+31080,CA,Los Angeles-Long Beach-Anaheim
+31060,NM,Los Alamos
+31020,WA,Longview
+30980,TX,Longview
+30940,KY,London
+30900,IN,Logansport
+30860,UT,Logan
+30820,PA,Lock Haven
+30780,AR,Little Rock-North Little Rock-Conway
+30700,NE,Lincoln
+30660,IL,Lincoln
+30620,OH,Lima
+30580,KS,Liberal
+30460,KY,Lexington-Fayette
+30420,NE,Lexington
+30380,PA,Lewistown
+30340,ME,Lewiston-Auburn
+30300,ID,Lewiston
+30280,TN,Lewisburg
+30260,PA,Lewisburg
+30220,TX,Levelland
+30140,PA,Lebanon
+30100,NH,Lebanon
+30060,MO,Lebanon
+30020,OK,Lawton
+29980,TN,Lawrenceburg
+29940,KS,Lawrence
+29900,NC,Laurinburg
+29860,MS,Laurel
+29820,NV,Las Vegas-Henderson-Paradise
+29780,NM,Las Vegas
+29740,NM,Las Cruces
+29700,TX,Laredo
+29660,WY,Laramie
+29620,MI,Lansing-East Lansing
+29540,PA,Lancaster
+29500,TX,Lamesa
+29460,FL,Lakeland-Winter Haven
+29420,AZ,Lake Havasu City-Kingman
+29380,FL,Lake City
+29340,LA,Lake Charles
+29300,GA,LaGrange
+29260,OR,La Grande
+29200,IN,Lafayette-West Lafayette
+29180,LA,Lafayette
+29100,WI,La Crosse-Onalaska
+29060,NH,Laconia
+29020,IN,Kokomo
+28940,TN,Knoxville
+28900,OR,Klamath Falls
+28860,MO,Kirksville
+28820,NC,Kinston
+28780,TX,Kingsville
+28740,NY,Kingston
+28700,TN,Kingsport-Bristol
+28660,TX,Killeen-Temple
+28620,NC,Kill Devil Hills
+28580,FL,Key West
+28500,TX,Kerrville
+28420,WA,Kennewick-Richland
+28380,MO,Kennett
+28340,IN,Kendallville
+28300,NH,Keene
+28260,NE,Kearney
+28140,MO,Kansas City
+28100,IL,Kankakee
+28060,MT,Kalispell
+28020,MI,Kalamazoo-Portage
+27900,MO,Joplin
+27860,AR,Jonesboro
+27780,PA,Johnstown
+27740,TN,Johnson City
+27700,GA,Jesup
+27660,LA,Jennings
+27620,MO,Jefferson City
+27600,GA,Jefferson
+27540,IN,Jasper
+27530,AL,Jasper
+27500,WI,Janesville-Beloit
+27460,NY,Jamestown-Dunkirk-Fredonia
+27420,ND,Jamestown
+27380,TX,Jacksonville
+27340,NC,Jacksonville
+27300,IL,Jacksonville
+27260,FL,Jacksonville
+27220,WY,Jackson
+27180,TN,Jackson
+27160,OH,Jackson
+27140,MS,Jackson
+27100,MI,Jackson
+27060,NY,Ithaca
+27020,MI,Iron Mountain
+26980,IA,Iowa City
+26940,MS,Indianola
+26900,IN,Indianapolis-Carmel-Anderson
+26860,PA,Indiana
+26820,ID,Idaho Falls
+26780,MN,Hutchinson
+26740,KS,Hutchinson
+26700,SD,Huron
+26660,TX,Huntsville
+26620,AL,Huntsville
+26580,WV,Huntington-Ashland
+26540,IN,Huntington
+26500,PA,Huntingdon
+26460,NY,Hudson
+26420,TX,Houston-The Woodlands-Sugar Land
+26380,LA,Houma-Thibodaux
+26340,MI,Houghton
+26300,AR,Hot Springs
+26260,AR,Hope
+26220,OR,Hood River
+26140,FL,Homosassa Springs
+26090,MI,Holland
+26020,NM,Hobbs
+25980,GA,Hinesville
+25940,SC,Hilton Head Island-Bluffton
+25880,MI,Hillsdale
+25860,NC,Hickory-Lenoir-Morganton
+25840,OR,Hermiston-Pendleton
+25820,TX,Hereford
+25780,NC,Henderson
+25760,AR,Helena-West Helena
+25740,MT,Helena
+25720,UT,Heber
+25700,KS,Hays
+25620,MS,Hattiesburg
+25580,NE,Hastings
+25540,CT,Hartford-East Hartford-Middletown
+25500,VA,Harrisonburg
+25460,AR,Harrison
+25420,PA,Harrisburg-Carlisle
+25300,MO,Hannibal
+25260,CA,Hanford-Corcoran
+25220,LA,Hammond
+25200,ID,Hailey
+25180,MD,Hagerstown-Martinsburg
+25100,OK,Guymon
+25060,MS,Gulfport-Biloxi
+24980,MS,Grenada
+24940,SC,Greenwood
+24900,MS,Greenwood
+24860,SC,Greenville-Anderson
+24820,OH,Greenville
+24780,NC,Greenville
+24740,MS,Greenville
+24700,IN,Greensburg
+24660,NC,Greensboro-High Point
+24620,TN,Greeneville
+24580,WI,Green Bay
+24540,CO,Greeley
+24500,MT,Great Falls
+24460,KS,Great Bend
+24420,OR,Grants Pass
+24380,NM,Grants
+24340,MI,Grand Rapids-Kentwood
+24330,MN,Grand Rapids
+24300,CO,Grand Junction
+24260,NE,Grand Island
+24220,ND,Grand Forks
+24180,TX,Granbury
+24140,NC,Goldsboro
+24100,NY,Gloversville
+24060,CO,Glenwood Springs
+24020,NY,Glens Falls
+23980,KY,Glasgow
+23940,WY,Gillette
+23900,PA,Gettysburg
+23860,SC,Georgetown
+23820,NV,Gardnerville Ranchos
+23780,KS,Garden City
+23700,NM,Gallup
+23660,IL,Galesburg
+23620,TX,Gainesville
+23580,GA,Gainesville
+23540,FL,Gainesville
+23500,SC,Gaffney
+23460,AL,Gadsden
+23420,CA,Fresno
+23380,OH,Fremont
+23340,NE,Fremont
+23300,IL,Freeport
+23240,TX,Fredericksburg
+23180,KY,Frankfort
+23140,IN,Frankfort
+23060,IN,Fort Wayne
+22900,AR,Fort Smith
+22860,LA,Fort Polk South
+22840,AL,Fort Payne
+22820,CO,Fort Morgan
+22800,IA,Fort Madison-Keokuk
+22780,MO,Fort Leonard Wood
+22700,IA,Fort Dodge
+22660,CO,Fort Collins
+22620,AR,Forrest City
+22580,NC,Forest City
+22540,WI,Fond du Lac
+22520,AL,Florence-Muscle Shoals
+22500,SC,Florence
+22420,MI,Flint
+22380,AZ,Flagstaff
+22340,GA,Fitzgerald
+22300,OH,Findlay
+22280,NV,Fernley
+22260,MN,Fergus Falls
+22220,AR,Fayetteville-Springdale-Rogers
+22180,NC,Fayetteville
+22140,NM,Farmington
+22100,MO,Farmington
+22060,MN,Faribault-Northfield
+22020,ND,Fargo
+21980,NV,Fallon
+21900,WV,Fairmont
+21860,MN,Fairmont
+21840,IA,Fairfield
+21780,IN,Evansville
+21740,WY,Evanston
+21700,CA,Eureka-Arcata
+21660,OR,Eugene-Springfield
+21640,AL,Eufaula
+21580,NM,Espa?ola
+21540,MI,Escanaba
+21500,PA,Erie
+21460,AL,Enterprise
+21420,OK,Enid
+21380,KS,Emporia
+21340,TX,El Paso
+21300,NY,Elmira
+21260,WA,Ellensburg
+21220,NV,Elko
+21180,WV,Elkins
+21140,IN,Elkhart-Goshen
+21120,OK,Elk City
+21060,KY,Elizabethtown-Fort Knox
+21020,NC,Elizabeth City
+20980,AR,El Dorado
+20940,CA,El Centro
+20900,TX,El Campo
+20820,IL,Effingham
+20780,CO,Edwards
+20740,WI,Eau Claire
+20700,PA,East Stroudsburg
+20660,MD,Easton
+20580,TX,Eagle Pass
+20540,TN,Dyersburg
+20500,NC,Durham-Chapel Hill
+20460,OK,Durant
+20420,CO,Durango
+20340,OK,Duncan
+20300,TX,Dumas
+20260,MN,Duluth
+20220,IA,Dubuque
+20180,PA,DuBois
+20140,GA,Dublin
+20100,DE,Dover
+20060,GA,Douglas
+20020,AL,Dothan
+19980,KS,Dodge City
+19940,IL,Dixon
+19860,ND,Dickinson
+19820,MI,Detroit-Warren-Dearborn
+19780,IA,Des Moines-West Des Moines
+19760,LA,DeRidder
+19740,CO,Denver-Aurora-Lakewood
+19700,NM,Deming
+19660,FL,Deltona-Daytona Beach-Ormond Beach
+19620,TX,Del Rio
+19580,OH,Defiance
+19540,IN,Decatur
+19500,IL,Decatur
+19460,AL,Decatur
+19430,OH,Dayton-Kettering
+19420,TN,Dayton
+19340,IA,Davenport-Moline-Rock Island
+19300,AL,Daphne-Fairhope-Foley
+19260,VA,Danville
+19220,KY,Danville
+19180,IL,Danville
+19140,GA,Dalton
+19100,TX,Dallas-Fort Worth-Arlington
+19060,MD,Cumberland
+19000,NC,Cullowhee
+18980,AL,Cullman
+18900,TN,Crossville
+18880,FL,Crestview-Fort Walton Beach-Destin
+18860,CA,Crescent City
+18820,IN,Crawfordsville
+18780,CO,Craig
+18740,OH,Coshocton
+18700,OR,Corvallis
+18660,NY,Cortland
+18620,TX,Corsicana
+18580,TX,Corpus Christi
+18500,NY,Corning
+18460,GA,Cornelia
+18420,MS,Corinth
+18380,GA,Cordele
+18300,OR,Coos Bay
+18260,TN,Cookeville
+18220,IN,Connersville
+18180,NH,Concord
+18140,OH,Columbus
+18100,NE,Columbus
+18060,MS,Columbus
+18020,IN,Columbus
+17980,GA,Columbus
+17900,SC,Columbia
+17860,MO,Columbia
+17820,CO,Colorado Springs
+17780,TX,College Station-Bryan
+17740,MI,Coldwater
+17700,KS,Coffeyville
+17660,ID,Coeur d'Alene
+17580,NM,Clovis
+17540,IA,Clinton
+17500,FL,Clewiston
+17460,OH,Cleveland-Elyria
+17420,TN,Cleveland
+17380,MS,Cleveland
+17340,CA,Clearlake
+17300,TN,Clarksville
+17260,MS,Clarksdale
+17220,WV,Clarksburg
+17140,OH,Cincinnati
+17060,OH,Chillicothe
+17020,CA,Chico
+16980,IL,Chicago-Naperville-Elgin
+16940,WY,Cheyenne
+16860,TN,Chattanooga
+16820,VA,Charlottesville
+16740,NC,Charlotte-Concord-Gastonia
+16700,SC,Charleston-North Charleston
+16660,IL,Charleston-Mattoon
+16620,WV,Charleston
+16580,IL,Champaign-Urbana
+16540,PA,Chambersburg-Waynesboro
+16500,WA,Centralia
+16460,IL,Centralia
+16420,KY,Central City
+16380,OH,Celina
+16340,GA,Cedartown
+16300,IA,Cedar Rapids
+16260,UT,Cedar City
+16220,WY,Casper
+16180,NV,Carson City
+16140,IA,Carroll
+16100,NM,Carlsbad-Artesia
+16060,IL,Carbondale-Marion
+16020,MO,Cape Girardeau
+15980,FL,Cape Coral-Fort Myers
+15940,OH,Canton-Massillon
+15860,CO,Ca?on City
+15820,KY,Campbellsville
+15780,AR,Camden
+15740,OH,Cambridge
+15700,MD,Cambridge
+15680,MD,California-Lexington Park
+15660,GA,Calhoun
+15620,MI,Cadillac
+15580,MT,Butte-Silver Bow
+15540,VT,Burlington-South Burlington
+15500,NC,Burlington
+15460,IA,Burlington
+15420,ID,Burley
+15380,NY,Buffalo-Cheektowaga
+15340,OH,Bucyrus-Galion
+15260,GA,Brunswick
+15220,TX,Brownwood
+15180,TX,Brownsville-Harlingen
+15140,TN,Brownsville
+15100,SD,Brookings
+15060,OR,Brookings
+15020,MS,Brookhaven
+14860,CT,Bridgeport-Stamford-Norwalk
+14820,NC,Brevard
+14780,TX,Brenham
+14740,WA,Bremerton-Silverdale-Port Orchard
+14720,CO,Breckenridge
+14700,MO,Branson
+14660,MN,Brainerd
+14620,PA,Bradford
+14580,MT,Bozeman
+14540,KY,Bowling Green
+14500,CO,Boulder
+14460,MA,Boston-Cambridge-Newton
+14420,TX,Borger
+14380,NC,Boone
+14300,TX,Bonham
+14260,ID,Boise City
+14220,LA,Bogalusa
+14180,AR,Blytheville
+14140,WV,Bluefield
+14100,PA,Bloomsburg-Berwick
+14020,IN,Bloomington
+14010,IL,Bloomington
+13980,VA,Blacksburg-Christiansburg
+13940,ID,Blackfoot
+13900,ND,Bismarck
+13820,AL,Birmingham-Hoover
+13780,NY,Binghamton
+13740,MT,Billings
+13720,VA,Big Stone Gap
+13700,TX,Big Spring
+13660,MI,Big Rapids
+13620,NH,Berlin
+13540,VT,Bennington
+13500,SC,Bennettsville
+13460,OR,Bend
+13420,MN,Bemidji
+13380,WA,Bellingham
+13340,OH,Bellefontaine
+13300,TX,Beeville
+13260,IN,Bedford
+13220,WV,Beckley
+13180,WI,Beaver Dam
+13140,TX,Beaumont-Port Arthur
+13100,NE,Beatrice
+13060,TX,Bay City
+13020,MI,Bay City
+12980,MI,Battle Creek
+12940,LA,Baton Rouge
+12900,AR,Batesville
+12860,NY,Batavia
+12780,OK,Bartlesville
+12740,VT,Barre
+12700,MA,Barnstable Town
+12680,KY,Bardstown
+12660,WI,Baraboo
+12620,ME,Bangor
+12580,MD,Baltimore-Columbia-Towson
+12540,CA,Bakersfield
+12460,GA,Bainbridge
+12420,TX,Austin-Round Rock-Georgetown
+12380,MN,Austin
+12300,ME,Augusta-Waterville
+12260,GA,Augusta-Richmond County
+12220,AL,Auburn-Opelika
+12180,NY,Auburn
+12140,IN,Auburn
+12120,AL,Atmore
+12100,NJ,Atlantic City-Hammonton
+12060,GA,Atlanta-Sandy Springs-Alpharetta
+12020,GA,Athens-Clarke County
+11980,TX,Athens
+11940,TN,Athens
+11900,OH,Athens
+11860,KS,Atchison
+11820,OR,Astoria
+11780,OH,Ashtabula
+11740,OH,Ashland
+11700,NC,Asheville
+11660,AR,Arkadelphia
+11620,OK,Ardmore
+11580,FL,Arcadia
+11540,WI,Appleton
+11500,AL,Anniston-Oxford
+11460,MI,Ann Arbor
+11420,IN,Angola
+11380,TX,Andrews
+11220,NY,Amsterdam
+11180,IA,Ames
+11140,GA,Americus
+11100,TX,Amarillo
+11060,OK,Altus
+11020,PA,Altoona
+10980,MI,Alpena
+10940,MI,Alma
+10900,PA,Allentown-Bethlehem-Easton
+10860,TX,Alice
+10820,MN,Alexandria
+10780,LA,Alexandria
+10760,AL,Alexander City
+10740,NM,Albuquerque
+10700,AL,Albertville
+10660,MN,Albert Lea
+10620,NC,Albemarle
+10580,NY,Albany-Schenectady-Troy
+10540,OR,Albany-Lebanon
+10500,GA,Albany
+10460,NM,Alamogordo
+10420,OH,Akron
+10300,MI,Adrian
+10220,OK,Ada
+10180,TX,Abilene
+10140,WA,Aberdeen
+10100,SD,Aberdeen
